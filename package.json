@@ -1,0 +1,23 @@
+{
+  "name": "speedometer-and-compass",
+  "version": "1.0.0",
+  "description": "Day 19: Speedometer-and-compass based on Geolocation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnayoOleru/Speedometer-and-compass.git"
+  },
+  "author": "Anayo Oleru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnayoOleru/Speedometer-and-compass/issues"
+  },
+  "homepage": "https://github.com/AnayoOleru/Speedometer-and-compass#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
